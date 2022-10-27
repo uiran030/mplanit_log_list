@@ -1,16 +1,30 @@
 [
     {
+        "TODAY": "2022-10-27",
+        "DAY":[13,"THU"],
+        "업무내용": [
+            "한화 tpl, php 공부하기"
+        ]
+    },
+    {
+        "TODAY": "2022-10-26",
+        "DAY":[12,"WED"],
+        "업무내용": [
+            "오전-log json을 활용한 시각 자료 제작 완료, 오후-search naver works bot token / access token 발급 불가하여 kakao로 제작해보기"
+        ]
+    },
+    {
         "TODAY": "2022-10-25",
         "DAY":[11,"TUE"],
         "업무내용": [
-            "log json을 활용한 시각 자료 제작중, search naver works bot token"
+            "오전-log json을 활용한 시각 자료 제작중"
         ]
     },
     {
         "TODAY": "2022-10-24",
         "DAY":[10,"MON"],
         "업무내용": [
-            "naver search api 연동, log json을 활용한 시각 자료 제작중"
+            "naver search api 연동, log json을 활용한 시각 자료 제작 시작"
         ]
     },
     {
