@@ -1,9 +1,16 @@
 [
     {
+        "TODAY": "2022-10-28",
+        "DAY":[14,"FRI"],
+        "업무내용": [
+            "study about NoSQL & naver works bot 제작 과정 공부, naver works search api 제작 시작"
+        ]
+    },
+    {
         "TODAY": "2022-10-27",
         "DAY":[13,"THU"],
         "업무내용": [
-            "한화 tpl, php 공부하기"
+            "study 한화 tpl, php, aws"
         ]
     },
     {
