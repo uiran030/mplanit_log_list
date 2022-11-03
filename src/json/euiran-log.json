@@ -1,9 +1,37 @@
 [
     {
+        "TODAY": "2022-11-03",
+        "DAY":[18,"THU"],
+        "업무내용": [
+            "한화 report 페이지 문구 수정, cloud9->customers-userconsole-webapp->afccd 분석"
+        ]
+    },
+    {
+        "TODAY": "2022-11-02",
+        "DAY":[17,"WED"],
+        "업무내용": [
+            "naver campaign & adgroup 제작 완료, kakao token 발급"
+        ]
+    },
+    {
+        "TODAY": "2022-11-01",
+        "DAY":[16,"TUE"],
+        "업무내용": [
+            "naver campaign & adgroup 제작 중"
+        ]
+    },
+    {
+        "TODAY": "2022-10-31",
+        "DAY":[15,"MON"],
+        "업무내용": [
+            "naver keywordstool api 제작 완료, naver campaign&adgroup 제작 시작"
+        ]
+    },
+    {
         "TODAY": "2022-10-28",
         "DAY":[14,"FRI"],
         "업무내용": [
-            "study about NoSQL & naver works bot 제작 과정 공부, naver works search api 제작 시작"
+            "study about NoSQL & naver works bot 제작 과정 분석, naver keywordstool api 제작 시작"
         ]
     },
     {
