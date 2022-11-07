@@ -1,5 +1,12 @@
 [
     {
+        "TODAY": "2022-11-07",
+        "DAY":[20,"MON"],
+        "업무내용": [
+            "dynamic cost lambda 생성 & db 연결 후 구현, bidList lambda 생성 & db 연결 후 구현, naver api lambda 함수 생성 후 연동 시도"
+        ]
+    },
+    {
         "TODAY": "2022-11-04",
         "DAY":[19,"FRI"],
         "업무내용": [
