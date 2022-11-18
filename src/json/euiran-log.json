@@ -1,21 +1,28 @@
 [
-{
+   {
+        "TODAY": "2022-11-18,
+        "DAY":[28,"FRI"],
+        "업무내용": [
+            "study sql & nodeJS & DOM,BOM"
+        ]
+    },
+   {
         "TODAY": "2022-11-17",
         "DAY":[27,"THU"],
         "업무내용": [
-            "Sql"
+            "study sql & nodeJS"
         ]
     },
     {
         "TODAY": "2022-11-16",
-        "DAY":[26,"TUE"],
+        "DAY":[26,"WED"],
         "업무내용": [
             "image 전송 후 S3 저장 기능 제작중"
         ]
     },
     {
         "TODAY": "2022-11-15",
-        "DAY":[25,"MON"],
+        "DAY":[25,"TUE"],
         "업무내용": [
             "json dynamoDB ,db 연결 bot 제작 완료 / image 전송 후 S3 저장 기능 제작 시작"
         ]
