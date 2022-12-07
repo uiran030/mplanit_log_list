@@ -1,5 +1,33 @@
 [
     {
+        "TODAY": "2022-12-7",
+        "DAY":[41,"WED"],
+        "업무내용": [
+            "trend report bot 코드 분석, 야간식대 신청서 개발 bot 제작 분석"
+        ]
+    },
+    {
+        "TODAY": "2022-12-6",
+        "DAY":[40,"TUE"],
+        "업무내용": [
+            "한화 single page banner 교체 보조, trend report bot 제작 완성 (보조)"
+        ]
+    },
+    {
+        "TODAY": "2022-12-5",
+        "DAY":[39,"MON"],
+        "업무내용": [
+            "trend report bot 제작 시작 (보조)"
+        ]
+    },
+    {
+        "TODAY": "2022-12-2",
+        "DAY":[38,"FRI"],
+        "업무내용": [
+            "mireport page pull, 분석"
+        ]
+    },
+    {
         "TODAY": "2022-12-1",
         "DAY":[37,"THU"],
         "업무내용": [
