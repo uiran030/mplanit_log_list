@@ -1,5 +1,19 @@
 [
     {
+        "TODAY": "2022-12-9",
+        "DAY":[43,"FRI"],
+        "업무내용": [
+            "targetfinder backend 기존 자료 분석, pgAdmin을 이용한 table insert, 기존 rank history 시간별 history 상태 excel로 제작하는 bot 제작과정 분석"
+        ]
+    },
+    {
+        "TODAY": "2022-12-8",
+        "DAY":[42,"THU"],
+        "업무내용": [
+            "야간식대 신청서 개발 bot 제작 분석 / 오후-키딕 시상식 참여"
+        ]
+    },
+    {
         "TODAY": "2022-12-7",
         "DAY":[41,"WED"],
         "업무내용": [
