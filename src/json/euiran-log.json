@@ -17,21 +17,21 @@
         "TODAY": "2022-12-16",
         "DAY":[48,"FRI"],
         "업무내용": [
-            ""
+            "mireport page에 test page 생성 후 input 입력 후 해당 lambda 실행하기"
         ]
     },
     {
         "TODAY": "2022-12-15",
         "DAY":[47,"TUE"],
         "업무내용": [
-            ""
+            "기존 한화 mobile 페이지 php 분석, clean coding / 기존 bridge page를 활용하여 s3에 저장된 이미지 띄우기 ('https://endpoint.bridgepage.datamplan.com/bridge-test')"
         ]
     },
     {
         "TODAY": "2022-12-14",
         "DAY":[46,"WED"],
         "업무내용": [
-            ""
+            "기존 한화 mobile 페이지 tpl 분석, clean coding"
         ]
     },
     {
