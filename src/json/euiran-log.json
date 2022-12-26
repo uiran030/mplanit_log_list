@@ -1,5 +1,12 @@
 [
 	{
+		"TODAY": "2022-12-26",
+		"DAY":[54,"MON"],
+		"업무내용": [
+			"keydig lambda 분석, movie 관련 api 적용하여 netflix page clone coding"
+		]
+	},
+	{
 		"TODAY": "2022-12-23",
 		"DAY":[53,"FRI"],
 		"업무내용": [
