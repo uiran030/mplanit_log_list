@@ -1,5 +1,12 @@
 [
        {
+		"TODAY": "2023-01-03",
+		"DAY":[60,"THU"],
+		"업무내용": [
+			"mireport 계정 페이지 수정창 구현, targetfinder naver 환율 crawling 후 db 저장 작업"
+		]
+	},
+       {
 		"TODAY": "2023-01-02",
 		"DAY":[59,"MON"],
 		"업무내용": [
