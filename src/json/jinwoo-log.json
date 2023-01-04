@@ -1,6 +1,848 @@
-[   
+[
     {
-        "2022-09-28": [
+        "2023-01-02": [
+            {
+                "days": "229",
+                "work": [
+                    { "hk_life": "흥국생명 웹인 페이지 텍스트 수정 배포"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-30": [
+            {
+                "days": "229",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-29": [
+            {
+                "days": "228",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-28": [
+            {
+                "days": "227",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-27": [
+            {
+                "days": "226",
+                "work": [
+                    { "lotte_lotteins": "floating banner 급건 작업 배포" },
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-26": [
+            {
+                "days": "225",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-23": [
+            {
+                "days": "225",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-22": [
+            {
+                "days": "224",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-21": [
+            {
+                "days": "223",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-20": [
+            {
+                "days": "222",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+
+    {
+        "2022-12-19": [
+            {
+                "days": "221",
+                "work": [
+                    { "lotte_lotteins": "롯데 mobile main page css 반응형 개발" },
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 입고프로세스 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-16": [
+            {
+                "days": "220",
+                "work": [
+                    { "lotte_lotteins": "롯데 pc 메인페이지 플로팅배너 추가, 띠배너 급건 업데이트" },
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 layout 셋팅 및 기본 page 구조 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-15": [
+            {
+                "days": "219",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 layout 셋팅 및 기본 page 구조 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-14": [
+            {
+                "days": "218",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 layout 셋팅 및 기본 page 구조 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "hi_direct": "현대해상 요청에 따른 api 개발" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-13": [
+            {
+                "days": "217",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 layout 셋팅 및 기본 page 구조 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-12": [
+            {
+                "days": "216",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 layout 셋팅 및 기본 page 구조 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-09": [
+            {
+                "days": "215",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 구매, 입고, 재고관리 프로세스 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-08": [
+            {
+                "days": "214",
+                "work": [
+                    { "lotte_lotteins": "롯데 급건 gnb, 모바일 메인페이지 수정" },
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 구매, 입고, 재고관리 프로세스 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-07": [
+            {
+                "days": "213",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 구매, 입고, 재고관리 프로세스 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-06": [
+            {
+                "days": "212",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 구매, 입고, 재고관리 프로세스 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-05": [
+            {
+                "days": "211",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 물류관리 솔루션 구매, 입고, 재고관리 프로세스 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-02": [
+            {
+                "days": "208",
+                "work": [
+                    { "hanwha_hanwha_ins": "한화 수탁사 취약점 관련 처리" },
+                    { "web_admin": "롯데 업데이트 사항 배포"},
+                    { "lotte_lotteins": "롯데 태그 클래스 삽입" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-12-01": [
+            {
+                "days": "207",
+                "work": [
+                    { "web_admin": "롯데 웹어드민 사이트 유지보수 기능 업데이트 및 유입 데이터별 상세전환 기능 업데이트 테스트"},
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-30": [
+            {
+                "days": "206",
+                "work": [
+                    { "web_admin": "롯데 웹어드민 사이트 유지보수 기능 업데이트 및 유입 데이터별 상세전환 기능 업데이트 테스트"},
+                    { "lotte_lotteins": "롯데 태그 클래스 삽입" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-29": [
+            {
+                "days": "205",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발 데이터베이스 컬럼 정의 및 데이터베이스 설계 작업"},
+                    { "web_admin": "롯데 웹어드민 사이트 유지보수 기능 업데이트 및 유입 데이터별 상세전환 기능 업데이트 테스트"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-28": [
+            {
+                "days": "204",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발 데이터베이스 컬럼 정의 및 데이터베이스 설계 작업"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-25": [
+            {
+                "days": "203",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발환경 셋팅"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-24": [
+            {
+                "days": "202",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발환경 셋팅"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-23": [
+            {
+                "days": "201",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발환경 셋팅"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-22": [
+            {
+                "days": "200",
+                "work": [
+                    { "mplanit_solution": "웹 어드민 트래픽 전환 모니터링 페이지 종합통계 기능 수정"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-21": [
+            {
+                "days": "199",
+                "work": [
+                    { "mplanit_solution": "엠플랜잇 솔루션 개발 프로세스 정리"},
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-18": [
+            {
+                "days": "198",
+                "work": [
+                    { "lotte_lotteins": "롯데 메인페이지, 운전자보험 웹인 상세페이지 업데이트 및 어드민 종합실적 게시판 수정작업 완료" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-17": [
+            {
+                "days": "197",
+                "work": [
+                    { "lotte_lotteins": "롯데 메인페이지, 운전자보험 웹인 상세페이지 업데이트 및 어드민 종합실적 게시판 수정작업 진행중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-16": [
+            {
+                "days": "196",
+                "work": [
+                    { "lotte_lotteins": "롯데 메인페이지, 운전자보험 웹인 상세페이지 업데이트 및 어드민 종합실적 게시판 수정작업" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": "사내 홈페이지 컨설팅 신청 기능 복구 완료" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-15": [
+            {
+                "days": "195",
+                "work": [
+                    { "hanwha_hanwha_ins": "한화 수탁사 취약점 관련 처리" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": "사내 홈페이지 컨설팅 신청 기능 복구중" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-14": [
+            {
+                "days": "193",
+                "work": [
+                    { "lotte_lotteins": "웹 어드민 유입별 문구, 이미지 자동변환 시스템 개발( 테스트 및 dev server 배포)" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-11": [
+            {
+                "days": "192",
+                "work": [
+                    { "mplanit_solution": "솔루션 개발 아키텍처 구상 및 설계 및작업" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-10": [
+            {
+                "days": "191",
+                "work": [
+                    { "lotte_lotteins": "롯데 db유입 유효성검사 점검" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-09": [
+            {
+                "days": "190",
+                "work": [
+                    { "web_admin": "웹어드민 롯데 유입에 의한 문구,배너 변경 로직, 테스트중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-08": [
+            {
+                "days": "189",
+                "work": [
+                    { "web_admin": "웹어드민 롯데 유입에 의한 문구,배너 변경 로직 개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "lotte_lotteins": "유입에 따른 문구, 이미지 변경 작업중" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-07": [
+            {
+                "days": "188",
+                "work": [
+                    { "web_admin": "웹어드민 롯데 유입에 의한 문구,배너 변경 로직 개발중(aws연동 업로드기능 연동)" },
+                    { "hk_life": "흥국 카카오 연동 로직 점검" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "lotte_lotteins": "유입에 따른 문구, 이미지 변경 작업중" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-04": [
+            {
+                "days": "187",
+                "work": [
+                    { "web_admin": "웹어드민 롯데 종합통계 게시판 통합작업완료" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "lotte_lotteins": "유입에 따른 문구, 이미지 변경 작업중" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-03": [
+            {
+                "days": "188",
+                "work": [
+                    { "web_admin": "롯데 종합통계 게시판 배포" },
+                    { "hk_life": "흥국 GNB 업데이트 배포" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-02": [
+            {
+                "days": "187",
+                "work": [
+                    { "web_admin": "롯데 종합통계 게시판 제작중(쿼리 최적화 컴펌)" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": "롯데 어드민 사이트 엠플랜잇 어드민사이트 이전작업" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-11-01": [
+            {
+                "days": "186",
+                "work": [
+                    { "web_admin": "롯데 종합통계 게시판 제작중(쿼리 최적화)" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },   
+    {
+        "2022-10-31": [
+            {
+                "days": "185",
+                "work": [
+                    { "web_admin": "롯데 관련 업데이트" },
+                    { "hk_life": "흥국생명 보장내용, 보험료예시 테이블 조절" },
+                    { "lotte_lotteins": "롯데 메인페이지 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-28": [
+            {
+                "days": "184",
+                "work": [
+                    { "web_admin": "흥국생명 Unknown문제 해결" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "lotte_lotteins": "파라미터값에 따른 배너변경 로직 테스트" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-27": [
+            {
+                "days": "183",
+                "work": [
+                    { "web_admin": "웹어드민 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-26": [
+            {
+                "days": "182",
+                "work": [
+                    { "hk_life": "암쏘굿 업데이트, 치매간병보험 페이지 제작" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-25": [
+            {
+                "days": "181",
+                "work": [
+                    { "web_admin": "웹어드민 톰캣 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+        {
+        "2022-10-24": [
+            {
+                "days": "181",
+                "work": [
+                    { "lotte_lotteins": "웹인 메인페이지 모바일 하단 '실손보험' 버튼 → '입원수술플랜'으로 변경, 웹인 페이지 내 '실손보험' 노출 되지 않도록 GNB 영역에서 삭제 배포" },
+                    { "hk_life": "1530보험' 엑셀 다운시 unknown으로 뜨는 현상 오류 수정" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-21": [
+            {
+                "days": "181",
+                "work": [
+                    { "web_admin": "웹어드민 톰캣 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-20": [
+            {
+                "days": "180",
+                "work": [
+                    { "hk_life": "1530 page update" },
+                    { "web_admin": "흥국생명 통계 관련기능 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-19": [
+            {
+                "days": "179",
+                "work": [
+                    { "lotte_lotteins": "롯데 보안 관련 에스원 솔루션 정책 변경" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "etc": "롯데 보안 관련 에스원 솔루션 정책 변경"}
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-18": [
+            {
+                "days": "178",
+                "work": [
+                    { "lotte_lotteins": "롯데손해보험 장기TM 기능 추가(DB 전환율을 높이기 위한 광고매칭 랜딩페이지 기능 구현)" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-17": [
+            {
+                "days": "177",
+                "work": [
+                    { "lotte_lotteins": "롯데손해보험 장기TM 기능 추가(DB 전환율을 높이기 위한 광고매칭 랜딩페이지 기능 구현)" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-14": [
+            {
+                "days": "176",
+                "work": [
+                    { "lotte_lotteins": "main page redirect url update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "api": "lotte api 로직 배포" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-13": [
+            {
+                "days": "175",
+                "work": [
+                    { "web_admin": "lotte => image list table => img update => ...ing" },
+                    { "lotte_lotteins": "롯데손해보험 장기TM 기능 추가(메인 유입 페이지 변경" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-12": [
+            {
+                "days": "174",
+                "work": [
+                    { "web_admin": "lotte => image list table => img update => ...ing" },
+                    { "hk_life": "new page update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-11": [
+            {
+                "days": "173",
+                "work": [
+                    { "web_admin": "lotte => image list table => img update => ...ing" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-07": [
+            {
+                "days": "172",
+                "work": [
+                    { "hanwha_hanwha_ins": "app main page update" },
+                    { "web_admin": "lotte => image list table => img update => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-06": [
+            {
+                "days": "171",
+                "work": [
+                    { "hanwha_hanwha_ins": "app main page update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-05": [
+            {
+                "days": "171",
+                "work": [
+                    { "lotte_lotteins": "cancer page 개정사항 update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "api": "lotte api => db 새로운 parameter 유입기능 update" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-10-04": [
+            {
+                "days": "170",
+                "work": [
+                    { "hk_life": "text, table update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "api": "lotte api => db 새로운 parameter 유입기능 update" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-29": [
             {
                 "days": "169",
                 "work": [
@@ -2318,6 +3160,239 @@
                         "manage_portal": "hk_life_실적통계_db_spring_source_fix"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "2022-03-02": [
+            {
+                "days": "29",
+                "work": "HANWHA GOOD_PAGE MOBILE 코딩본 만들기, HANWHA, HANWHA_INS MATURITY_BANNER_CHANGE, CHILD, MATURITY_MOBLIE BANNER_CHANGE, LOTTE 심의 페이지 수정, HKLIFE_GNB PAGE_UPDATE, HKLIFE_RECANCER, 3D, LIFE PAGE_CAHNGE, GIT_BACKUP, SVN_BACKUP"
+            }
+        ]
+    },
+    {
+        "2022-03-01": [
+            {
+                "days": "28",
+                "work": "HKLIFE CHANGE_CALC_LOGIC_UPDATE, GIT_BACKUP, HKLIFE_SVN_BACKUP"
+            }
+        ]
+    },
+    {
+        "2022-02-28": [
+            {
+                "days": "27",
+                "work": "HANWHA, HANWHA_INS LAYER_POPUP CHANGE, CHILD_MATURITY_EVENT_BANNER_CHANGE, REPORT_BTN_CHANGE, 한화손해보험 메인페이지에서 REDIRECT시 URL에 HANWHA 키워드 포함된 주소는 LAYER_POPUP제외작업, LAYER_POP_IMAGE_CHANGE, 3.1일 BANNER_AUTO_CHANGE, CANCER_BANNER_CHANGE,  HKLIFE 3D, CENCER, HKLIFE_PAGE GNB CHANGE_CALC_LOGIC_UPDATE, MPLANIT_HOMEPAGE_UPDATE, GIT_BACKUP, HKLIFE_SVN_BACKUP"
+            }
+        ]
+    },
+    {
+        "2022-02-25": [
+            {
+                "days": "26",
+                "work": "HKLIFE 3D, CENCER, LIFE_PAGE CHANGE, TEXT 한자_FIX, 상품이름변경, HANWHA, HANWHA_INS CHAM, CHILD BANNER CHANGE, MPLANIT_HOMEPAGE_UPDATE"
+            }
+        ]
+    },
+    {
+        "2022-02-24": [
+            {
+                "days": "25",
+                "work": "HANWHA, HANWHA_INS REPORT_BTN, CLAC_BTN CHANGE, MATURITY PAGE UPDATE, TEXT CHANGE, MAIN_PAGE CHANGE, GIT_BACKUP, HKLIFE_CALC_ERROR_FIX"
+            }
+        ]
+    },
+    {
+        "2022-02-23": [
+            {
+                "days": "24",
+                "work": "AFCCD_CODE_UPDATE, HANWHA_EYE, TOOTH_PAGE REDIRECT ISSUE 해결, HKLIFE_주민번호 API 전송문제 해결, ADMIN_HOME_DB 값 변경"
+            }
+        ]
+    },
+    {
+        "2022-02-22": [
+            {
+                "days": "23",
+                "work": "HANWHA_INS PC, MOBILE OPERATION, CANCER, HOUSE, GOOD_PAGE TOP_COLOR CHANGE, MATURITY_PAGE ADD, BANNER_UPDATE, HKLIFE_RECANCER, 3D, LIFE_PAGE UPDATE, SVN_UPDATE, GIT_BACKUP"
+            }
+        ]
+    },
+    {
+        "2022-02-21": [
+            {
+                "days": "22",
+                "work": "HANWHA, HANWHA_INS TOP_BANNER PIX, MAIN_PAGE_LAYER_POPUP ADD, GIT_BACKUP, SVN_BACK_UP, SPRING_PROJECT_SOURCE 분석"
+            }
+        ]
+    },
+    {
+        "2022-02-18": [
+            {
+                "days": "21",
+                "work": "HANWHA, HANWHA_INS TOP_BANNER 특정페이지 SLIDE -> PIX 방식으로 변경, INCALL_BANNER 토요일 업무 가능하게 로직 수정, EVENT_BANNER UPDATE"
+            }
+        ]
+    },
+    {
+        "2022-02-17": [
+            {
+                "days": "20",
+                "work": "HANWHA, HANWHA_INS ONLY3_CHAM_PAGE UPDATE, BABY_DIRECT_PAGE UPDATE, GIT_BACKUP, SVN_BACKUP"
+            }
+        ]
+    },
+    {
+        "2022-02-16": [
+            {
+                "days": "19",
+                "work": "SVN BACK_UP, HANWHA_INS_BANNER CHANGE, GIT_BACKUP, HANWHA_INS_CSS_CHANGE, HANWHA 랜딩페이지 수정, LOTTE_NUMBER_CHANGE 작업, LOTTE 운영서버 배포 "
+            }
+        ]
+    },
+    {
+        "2022-02-15": [
+            {
+                "days": "18",
+                "work": "HANWHA 랜딩페이지 수정, IFRAME 소스 분석, HANWHA IP_BLACK_LIST CHECK, LOTTE_API SPRING_SOURCE 분석"
+            }
+        ]
+    },
+    {
+        "2022-02-14": [
+            {
+                "days": "17",
+                "work": "LOTTE 랜딩페이지 수정, HK_BABY PAGE_CHANGE, IFRAME 점검, SVN BACK_UP, HANWHA SITE_BANNER CHANGE, MOBILE_HTML 코딩본작업"
+            }
+        ]
+    },
+    {
+        "2022-02-11": [
+            {
+                "days": "16",
+                "work": "SVN REVERT 복구, LOTTE 랜딩 페이지 수정, HK_BABY 이미지 작업 SVN BACK_UP"
+            }
+        ]
+    },
+    {
+        "2022-02-10": [
+            {
+                "days": "15",
+                "work": "LOTTE, LOTTEINS NUMBER_CHANGE, KAKAO 상담기능 DELETE, SVN 배포"
+            }
+        ]
+    },
+    {
+        "2022-02-09": [
+            {
+                "days": "14",
+                "work": "LOTTE 랜딩 페이지 수정, url redirect 작업, IFRAME AFCCD 값 MAPPING, SVN 배포"
+            }
+        ]
+    },
+    {
+        "2022-02-08": [
+            {
+                "days": "13",
+                "work": "LOTTEINSU, MALL 채팅 카카오상담 기능 삭제 및 이름변경, HANWHA IP_BLACK_LIST CHECK, HANWHA IFRAME MAPPING, HANWHA_PHP_SOURCE BACKUP, HANWHA_INSUMALL_CARE_PAGE_DELETE"
+            }
+        ]
+    },
+    {
+        "2022-02-07": [
+            {
+                "days": "12",
+                "work": "AWS PROCESS 정리, PROJECT BACKUP, HANWHA IP_BLACK_LIST CHECK, SPRING_BOOT PROJECT 분석, HANWHA CARE.TPL MOBILE_PAGE ADD"
+            }
+        ]
+    },
+    {
+        "2022-02-04": [
+            {
+                "days": "11",
+                "work": "SVN, HANWHA CARE_PAGE CHANGE, HANWHA IFRAME MAPPING, HANWHA IP_BLACK_LIST CHECK"
+            }
+        ]
+    },
+    {
+        "2022-02-03": [
+            {
+                "days": "10",
+                "work": "HANWHA IP_BLACK_LIST CHECK, LOTTE PRODUCTS_SERVICE NAME CHANGE, HANWHA_INSU, HANWHA_INSUMALL MAIN_PAGE BANNER CHANGE"
+            }
+        ]
+    },
+    {
+        "2022-01-28": [
+            {
+                "days": "9",
+                "work": "HANWHA_INSU, HANWHA_INSUMALL PRODUCTS_SERVICE UPDATE, HANWHA GOLFPLAN 오타 수정, 명완주임님 업무 인수인계 마지막날ㅠㅠ"
+            }
+        ]
+    },
+    {
+        "2022-01-27": [
+            {
+                "days": "8",
+                "work": "HUNGKUK PROJECT 배포, 명완주임 업무내용 인수인계"
+            }
+        ]
+    },
+    {
+        "2022-01-26": [
+            {
+                "days": "7",
+                "work": "HANWHA_INSUMALL SECOND_PAGE UPDATE"
+            }
+        ]
+    },
+    {
+        "2022-01-25": [
+            {
+                "days": "6",
+                "work": "HUNGKUK PROJECT SOURCE 분석, DB TABLE 내용 정리"
+            }
+        ]
+    },
+    {
+        "2022-01-24": [
+            {
+                "days": "5",
+                "work": "SPRING_BOOT SVN MERGE, SVN COMMAND 정리, SPRINGBOOT PROJECT 분석"
+            }
+        ]
+    },
+    {
+        "2022-01-23": [
+            {
+                "days": "4",
+                "work": "LINUX SERVER 분석, LINUX COMMAND 정리, PUTTY PROCESS 정리, SQL 최신화작업"
+            }
+        ]
+    },
+    {
+        "2022-01-22": [
+            {
+                "days": "3",
+                "work": "HANWHA_INSUMALL 배포, HANWHA PHP PROJECT SOURCE 분석"
+            }
+        ]
+    },
+    {
+        "2022-01-21": [
+            {
+                "days": "2",
+                "work": "PHP SOURCE MODIFY, GIT, PROJECT SITE 정리"
+            }
+        ]
+    },
+    {
+        "2022-01-20": [
+            {
+                "days": "1",
+                "today": "FIRST",
+                "work": "SVN, PUTTY, SERVER, STS4, WAMP, GIT, VSCODE, CENTOS 사용법 인수인계받음"
             }
         ]
     }
