@@ -1,5 +1,12 @@
 [
 	{
+		"TODAY": "2023-01-05",
+		"DAY":[62,"TUE"],
+		"업무내용": [
+			"네이버 메인 배너 crawling 후 db 저장 작업 시도(iframe src 존재하지않아 제작 불가), puppeteer를 이용하여 screenshot 후 s3에 저장하는 lambda 제작 시작"
+		]
+	},
+	{
 		"TODAY": "2023-01-04",
 		"DAY":[61,"WED"],
 		"업무내용": [
