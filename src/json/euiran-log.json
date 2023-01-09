@@ -1,5 +1,19 @@
 [
 	{
+		"TODAY": "2023-01-09",
+		"DAY":[64,"MON"],
+		"업무내용": [
+			"naver shopping page npm random-useragent and npm random-fake-useragent modules를 이용한 crawling (for keydig)"
+		]
+	},
+	{
+		"TODAY": "2023-01-06",
+		"DAY":[63,"FRI"],
+		"업무내용": [
+			"naver main banner를 puppeteer를 통해 screenshot 후 s3에 저장하는 lambda 생성하기 (naver 크롤링이 불가능하여 실패)"
+		]
+	},
+	{
 		"TODAY": "2023-01-05",
 		"DAY":[62,"TUE"],
 		"업무내용": [
