@@ -1,5 +1,12 @@
 [
 	{
+		"TODAY": "2023-01-10",
+		"DAY":[65,"THU"],
+		"업무내용": [
+			"naver shopping page node selenium 이용한 crawling (for keydig)"
+		]
+	},
+	{
 		"TODAY": "2023-01-09",
 		"DAY":[64,"MON"],
 		"업무내용": [
