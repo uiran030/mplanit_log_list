@@ -1,5 +1,26 @@
 [
 	{
+		"TODAY": "2023-01-13",
+		"DAY":[68,"FRI"],
+		"업무내용": [
+			"연차"
+		]
+	},
+	{
+		"TODAY": "2023-01-12",
+		"DAY":[67,"TUE"],
+		"업무내용": [
+			"honostone page parameter tel number에 따른 전화번호 변경 시스템 제작 완료, top button click 시 있는 오류 수정"
+		]
+	},
+	{
+		"TODAY": "2023-01-11",
+		"DAY":[66,"WED"],
+		"업무내용": [
+			"study about javascript, honostone page parameter tel number에 따른 전화번호 변경 시스템 제작"
+		]
+	},
+	{
 		"TODAY": "2023-01-10",
 		"DAY":[65,"THU"],
 		"업무내용": [
@@ -25,13 +46,6 @@
 		"DAY":[62,"TUE"],
 		"업무내용": [
 			"네이버 메인 배너 crawling 후 db 저장 작업 시도(iframe src 존재하지않아 제작 불가), puppeteer를 이용하여 screenshot 후 s3에 저장하는 lambda 제작 시작"
-		]
-	},
-	{
-		"TODAY": "2023-01-04",
-		"DAY":[61,"WED"],
-		"업무내용": [
-			"naver 환율 db에 저장한 것 excel로 제작, bot 명령어 생성하기 작업 보조"
 		]
 	},
 	{
