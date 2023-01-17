@@ -1,5 +1,12 @@
 [
 	{
+		"TODAY": "2023-01-17",
+		"DAY":[70,"THU"],
+		"업무내용": [
+			"mplanitreport backend 제작한 것 코드 분석, 한화 웹, 모바일 cancer_operation page 내용 수정"
+		]
+	},
+	{
 		"TODAY": "2023-01-16",
 		"DAY":[69,"MON"],
 		"업무내용": [
