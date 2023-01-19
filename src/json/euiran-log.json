@@ -1,9 +1,23 @@
 [
 	{
+		"TODAY": "2023-01-19",
+		"DAY":[72,"TUE"],
+		"업무내용": [
+			"cancer_operation 모바일코딩, 한화 모바일 baby page 수정 보조"
+		]
+	},
+	{
+		"TODAY": "2023-01-18",
+		"DAY":[71,"WED"],
+		"업무내용": [
+			"lambda-mplanitreport-endpoint 제작, endpoint page 구현 (어제 과정 복습)"
+		]
+	},
+	{
 		"TODAY": "2023-01-17",
 		"DAY":[70,"THU"],
 		"업무내용": [
-			"mplanitreport backend 제작한 것 코드 분석, 한화 웹, 모바일 cancer_operation page 내용 수정"
+			"mplanitreport backend 제작한 것 코드 분석, 한화 웹, 모바일 cancer_operation page 수정 보조"
 		]
 	},
 	{
