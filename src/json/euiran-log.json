@@ -1,5 +1,33 @@
 [
 	{
+		"TODAY": "2023-01-27",
+		"DAY":[76,"FRI"],
+		"업무내용": [
+			"전날 작업한 테이블 column 변경, mplanitreport-get-mkt-data-sql : select query문을 통해 db에서 해당 데이터 빼내는 람다 생성, 현재 봇 작업 제작 과정 정리"
+		]
+	},
+	{
+		"TODAY": "2023-01-26",
+		"DAY":[75,"TUE"],
+		"업무내용": [
+			"mplanitreport-put-mkt-data-sql : dynamoDB 저장된 data 가공과 db에 저장하는 lambda 제작 보조"
+		]
+	},
+	{
+		"TODAY": "2023-01-25",
+		"DAY":[74,"WED"],
+		"업무내용": [
+			"js를 이용한 마우스 피하기 게임, 디지털 시계 제작 / mplanitreport report bot 생성"
+		]
+	},
+	{
+		"TODAY": "2023-01-20",
+		"DAY":[73,"FRI"],
+		"업무내용": [
+			"endpoint 서버 구현 과정 정리"
+		]
+	},
+	{
 		"TODAY": "2023-01-19",
 		"DAY":[72,"TUE"],
 		"업무내용": [
