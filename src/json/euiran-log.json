@@ -1,5 +1,33 @@
 [
 	{
+		"TODAY": "2023-02-09",
+		"DAY":[83,"TUE"],
+		"업무내용": [
+			"리포트 봇 : 연결된 db에 저장할 값 보내주고 db 저장 or update 기능 구현"
+		]
+	},
+	{
+		"TODAY": "2023-02-08",
+		"DAY":[82,"WED"],
+		"업무내용": [
+			"리포트 봇 : 키관리 목록 UI 제작, db 연결을 위한 media detail 값 입력 창 제작"
+		]
+	},
+	{
+		"TODAY": "2023-02-07",
+		"DAY":[83,"THU"],
+		"업무내용": [
+			"recoil rerender 오류 수정을 위한 recoil study, key 저장한 db (=mplanitreport_key) table 생성"
+		]
+	},
+	{
+		"TODAY": "2023-02-06",
+		"DAY":[82,"MON"],
+		"업무내용": [
+			"useAxios를 이용한 백앤드 통신 구현"
+		]
+	},
+	{
 		"TODAY": "2023-02-03",
 		"DAY":[81,"FRI"],
 		"업무내용": [
