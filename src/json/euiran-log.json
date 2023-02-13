@@ -1,9 +1,16 @@
 [
 	{
+		"TODAY": "2023-02-13",
+		"DAY":[85,"MON"],
+		"업무내용": [
+			"리포트 봇 : UI 수정, 버튼 클릭 후 정상 작동 시 success snackbar 작업, loading 시 progress 버벅거림 있어서 수정"
+		]
+	},
+	{
 		"TODAY": "2023-02-10",
 		"DAY":[84,"FRI"],
 		"업무내용": [
-			"리포트 봇 : UI 수정, /key/setting page 등록 버튼 클릭 시 updatedAt 시간,날짜 변경 sql 수정 "
+			"리포트 봇 : UI 수정, /key/setting page 등록 버튼 클릭 시 updatedAt 시간,날짜 변경 sql 수정"
 		]
 	},
 	{
