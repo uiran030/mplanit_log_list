@@ -1,23 +1,65 @@
 [
 	{
+		"TODAY": "2023-02-24",
+		"DAY":[94,"FRI"],
+		"업무내용": [
+			"practice pure css, html, js"
+		]
+	},
+	{
+		"TODAY": "2023-02-23",
+		"DAY":[93,"TUE"],
+		"업무내용": [
+			"practice pure css, mui css, apexcharts"
+		]
+	},
+	{
+		"TODAY": "2023-02-22",
+		"DAY":[92,"WED"],
+		"업무내용": [
+			"practice mui css, apexcharts, charts modules"
+		]
+	},
+	{
+		"TODAY": "2023-02-21",
+		"DAY":[91,"THU"],
+		"업무내용": [
+			"react apexcharts와 nivo graph 활용"
+		]
+	},
+	{
+		"TODAY": "2023-02-20",
+		"DAY":[90,"MON"],
+		"업무내용": [
+			"figma를 이용한 프로젝트 기획, react chart module 확인"
+		]
+	},
+	{
+		"TODAY": "2023-02-17",
+		"DAY":[89,"FRI"],
+		"업무내용": [
+			"study node&react 연동, erd 설계 방법"
+		]
+	},
+	{
 		"TODAY": "2023-02-16",
 		"DAY":[88,"TUE"],
 		"업무내용": [
-			"오전반차 / study 아키텍쳐 정의, ERD 설계 방법"
+			"오전 반차/오후 : figma를 이용한 프로젝트 기획"
 		]
 	},
 	{
 		"TODAY": "2023-02-15",
 		"DAY":[87,"WED"],
 		"업무내용": [
-			"리포트 봇 최종 마무리와 포트폴리오 정리"
+			"개인 노션 포트폴리오 정리"
 		]
 	},
 	{
 		"TODAY": "2023-02-14",
 		"DAY":[86,"THU"],
 		"업무내용": [
-			"리포트 봇 recoil을 이용한 loading 구현 재시도"
+			"리포트 봇 메세지에서 보낼 때와 웹 페이지에서 보낼 때 데이터의 위치가 달라 오류 존재하여 수정"
 		]
 	},
 	{
